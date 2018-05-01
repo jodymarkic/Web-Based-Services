@@ -1,0 +1,4 @@
+﻿http://www.webservicex.net/globalweather.asmx?WSDL
+http://www.webservicex.net/country.asmx?WSDL
+http://www.webservicex.net/airport.asmx?WSDL
+http://www.webservicex.net/uszip.asmx?WSDL

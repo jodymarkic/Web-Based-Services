@@ -1,0 +1,64 @@
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCountryByCountryCode,GetCountryByCountryCode,http://www.webserviceX.NET,CountryCode:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetISD,GetISD,http://www.webserviceX.NET,CountryName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCountries,GetCountries,http://www.webserviceX.NET, : 
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencyCodeByCurrencyName,GetCurrencyCodeByCurrencyName,http://www.webserviceX.NET,CurrencyName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetISOCountryCodeByCountyName,GetISOCountryCodeByCountyName,http://www.webserviceX.NET,CountryName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencyCode,GetCurrencyCode,http://www.webserviceX.NET, : 
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCountryByCurrencyCode,GetCountryByCurrencyCode,http://www.webserviceX.NET,CurrencyCode:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencies,GetCurrencies,http://www.webserviceX.NET, : 
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencyByCountry,GetCurrencyByCountry,http://www.webserviceX.NET,CountryName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetGMTbyCountry,GetGMTbyCountry,http://www.webserviceX.NET,CountryName:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/getAirportInformationByISOCountryCode,getAirportInformationByISOCountryCode,http://www.webserviceX.NET,CountryAbbrviation:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/getAirportInformationByCityOrAirportName,getAirportInformationByCityOrAirportName,http://www.webserviceX.NET,cityOrAirportName:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/GetAirportInformationByCountry,GetAirportInformationByCountry,http://www.webserviceX.NET,country:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/getAirportInformationByAirportCode,getAirportInformationByAirportCode,http://www.webserviceX.NET,airportCode:s:string
+
+xml,www.w3schools.com,https://www.w3schools.com/xml//FahrenheitToCelsius,FahrenheitToCelsius,https://www.w3schools.com/xml/,Fahrenheit:s:string
+
+xml,www.w3schools.com,https://www.w3schools.com/xml//CelsiusToFahrenheit,CelsiusToFahrenheit,https://www.w3schools.com/xml/,Celsius:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCountryByCountryCode,GetCountryByCountryCode,http://www.webserviceX.NET,CountryCode:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetISD,GetISD,http://www.webserviceX.NET,CountryName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCountries,GetCountries,http://www.webserviceX.NET, : 
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencyCodeByCurrencyName,GetCurrencyCodeByCurrencyName,http://www.webserviceX.NET,CurrencyName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetISOCountryCodeByCountyName,GetISOCountryCodeByCountyName,http://www.webserviceX.NET,CountryName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencyCode,GetCurrencyCode,http://www.webserviceX.NET, : 
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCountryByCurrencyCode,GetCountryByCurrencyCode,http://www.webserviceX.NET,CurrencyCode:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencies,GetCurrencies,http://www.webserviceX.NET, : 
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetCurrencyByCountry,GetCurrencyByCountry,http://www.webserviceX.NET,CountryName:s:string
+
+country.asmx,www.webservicex.net,http://www.webserviceX.NET/GetGMTbyCountry,GetGMTbyCountry,http://www.webserviceX.NET,CountryName:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/getAirportInformationByISOCountryCode,getAirportInformationByISOCountryCode,http://www.webserviceX.NET,CountryAbbrviation:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/getAirportInformationByCityOrAirportName,getAirportInformationByCityOrAirportName,http://www.webserviceX.NET,cityOrAirportName:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/GetAirportInformationByCountry,GetAirportInformationByCountry,http://www.webserviceX.NET,country:s:string
+
+airport.asmx,www.webservicex.net,http://www.webserviceX.NET/getAirportInformationByAirportCode,getAirportInformationByAirportCode,http://www.webserviceX.NET,airportCode:s:string
+
+xml,www.w3schools.com,https://www.w3schools.com/xml//FahrenheitToCelsius,FahrenheitToCelsius,https://www.w3schools.com/xml/,Fahrenheit:s:string
+
+xml,www.w3schools.com,https://www.w3schools.com/xml//CelsiusToFahrenheit,CelsiusToFahrenheit,https://www.w3schools.com/xml/,Celsius:s:string
+
